@@ -11,7 +11,7 @@
 | Rice Porridge with Chicken |  20  |
 | Ramen Noodles              |  22  |
 | Waffles                    |  25  |
-| Cheap Sandwich             |  25  |
+| Cheap Sandwich             |  25  |]
 | Fried Eggs with rice       |  35  |
 | Good Sandwich              |  40  |
 
